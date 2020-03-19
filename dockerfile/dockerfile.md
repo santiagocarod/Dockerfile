@@ -6,3 +6,4 @@ Una colección de ejercicios resueltos y ejemplos de ficheros Dockerfile. Cada e
 
 1. [Aplicación web Flask](python-flask/python-flask.md)
 2. [Aplicación web Express](nodejs-express/nodejs-express.md)
+3. [IDE web Icecoder](icecoder/icecoder.md) (difícil)
